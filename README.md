@@ -1,0 +1,1 @@
+# MTK7621MT7628dengzuixinzhinanMTK_APSoC_SDK_User_Manual4.3.0.0
